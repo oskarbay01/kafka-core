@@ -1,5 +1,5 @@
 # kafka-core
-Java Spring + Apache Kafka: настройка асинхронный транспорт между сервисами
+Java Spring + Apache Kafka: настройка асинхронных транспорт между сервисами
 
 
 
